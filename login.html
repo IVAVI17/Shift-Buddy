@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset=*UTF-8*>
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <title>LINK BUDDY</title>
+    <link rel="stylesheet" href="stylenew.css">
+</head>
+<body>
+    <div class="banner">
+    <img  class="layer-1" src="img/bg.png">
+    <img class="layer-2" src="img/meteor.png">
+
+<div class="layer-3">
+    <h1>Hello &amp; Welcome</h1>
+    <p>YOUR TIME TO SHIFT !  </p>
+    <a href="#teks">LOG IN</a>
+</div>
+
+
+
+    <img class="layer-4" src="img/4.png">
+    <img  class="layer-5" src="img/5.png">
+    <img  src="img/6.png">
+    </div>
+<div class="content">
+    <h1>SHIFT BUDDY</h1>
+    <p>   <br>Welcome to ShiftBuddy ultimate solution for all your hostel room shifting woes! Are you tired of the hassle and uncertainty that comes with shifting to a new hostel room? Look no further than ShiftBuddy
+        Here, you can easily check when the older occupants of your new room will be moving out, giving you the peace of mind and certainty you need when making such an important decision of when to shift from your room. Say goodbye to the stress of moving and hello to ShiftBuddy, your new best friend in the world of room shifting!</p>
+        <p> <br>At ShiftBuddy, you'll get instant access to all the information you need about when the older occupants of your new room will be vacating it.</p>
+           
+           <div class="content1" id="teks">
+
+           
+            <form action="login.php" method="post">
+                <form action="form-handler.php" method="post">
+            <form action="auth_session" method="post"> 
+            <div class="content1" id="teks">
+                <h1>LOG IN</h1>
+                <form action="login.php" method="post">
+                    <form action="auth_session.php" method="post">
+                    <form action="form-handler.php" method="post">
+            <form class="form" method="post" name="login">
+                <input type="text" class="login-input" name="name" placeholder="Username" autofocus="true"/>
+                <input type="password" class="login-input" name="password" placeholder="Password"/>
+                <input type="submit" value="Login" name="submit" class="login-button"/>
+                <p>Don't have an account ? Register!</p> 
+                <a href="index.html" class="hero-btn red-btn">Register</a>
+          </form>
+          
+           </div>
+        </form>
+        </div>
+
+<script type="text/javascript">
+    let layer_1 = document.querySelector('.layer-1');
+    let layer_2 = document.querySelector('.layer-2');
+    let layer_3 = document.querySelector('.layer-3');
+    let layer_4 = document.querySelector('.layer-4');
+    let layer_5 = document.querySelector('.layer-5');
+
+  window.onscroll = function(){
+    let Y = window.scrollY;
+
+    layer_1.style.transform = 'translateY('+ Y/1.5 +'px)';
+    layer_2.style.transform = 'translateY('+ Y/2 +'px)';
+    layer_3.style.transform = 'translateY('+ Y/1.5 +'px)';
+    layer_4.style.transform = 'translateY('+ Y/2 +'px)';
+    layer_5.style.transform = 'translateY('+ Y/3 +'px)';
+  }
+</script>
+</div>
+</div>
+</body>
+</html>
