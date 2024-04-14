@@ -13,19 +13,19 @@ Are you tired of the hassle and uncertainty that comes with shifting to a new ho
 Click on the "Sign Up" button to register.
 
 ### Step 2: Login
-![Login](images/login.png)
+![Login](img/R2.png)
 Enter your details in the sign-up page. If you already have an account, go to the LOGIN page by clicking on the LOGIN button.
 
 ### Step 3: Login and Search
-![Login and Search](images/login_search.png)
+![Login and Search](img/R2.1.png)
 After submitting your details, you will be directed to the login page. Enter your name and password, then click on the LOGIN button to be directed to the search bar to find the required room details.
 
 ### Step 4: Search for Room Details
-![Search for Room Details](images/search.png)
+![Search for Room Details](img/R3.png)
 Once logged in, you will be directed to the SEARCH bar. Enter the room number of the room you are moving into and click the SUBMIT button. You will receive details such as the time the room will be vacated and the contact details of the previous occupants.
 
 ### Step 5: Example
-![Example](images/example.png)
+![Example](img/R4.png)
 For example, if you are moving into room 1006A in L block, enter the room number accordingly to get the details as shown.
 
 ### Step 6: Logout
