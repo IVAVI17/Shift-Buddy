@@ -1,4 +1,4 @@
-# Shift Buddy
+# ShiftBuddy
 
 Welcome to Shift Buddy, your ultimate solution for all your hostel room shifting needs! Never again will you be confused about when to shift your room. With Shift Buddy, you can easily find out when the older occupants of your new room will be vacating it. Say goodbye to the stress of moving and hello to Shift Buddy!
 
