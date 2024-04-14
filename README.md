@@ -1,10 +1,10 @@
-# Shift_Buddy
+# Shift Buddy
 
-Welcome to Shift_Buddy, your ultimate solution for all your hostel room shifting needs! Never again will you be confused about when to shift your room. With Shift_Buddy, you can easily find out when the older occupants of your new room will be vacating it. Say goodbye to the stress of moving and hello to Shift_Buddy!
+Welcome to Shift Buddy, your ultimate solution for all your hostel room shifting needs! Never again will you be confused about when to shift your room. With Shift Buddy, you can easily find out when the older occupants of your new room will be vacating it. Say goodbye to the stress of moving and hello to Shift Buddy!
 
 ## About Us
 
-Are you tired of the hassle and uncertainty that comes with shifting to a new hostel room? Don't worry, we have got you covered! Shift_Buddy provides instant access to all the information you need about when the older occupants of your new room will be vacating it.
+Are you tired of the hassle and uncertainty that comes with shifting to a new hostel room? Don't worry, we have got you covered! Shift Buddy provides instant access to all the information you need about when the older occupants of your new room will be vacating it.
 
 ## How it Works
 
@@ -35,7 +35,4 @@ After getting the required details, click on the LOGOUT button to be directed ba
 - [Avi Gupta](https://github.com/IVAVI17)
 - [Kartikey Bhatnagar](https://github.com/kartikey-codes)
 
-
-## Acknowledgments
-Special thanks to [Epizy](http://epizy.com) for hosting our website.
 
