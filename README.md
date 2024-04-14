@@ -32,17 +32,10 @@ For example, if you are moving into room 1006A in L block, enter the room number
 After getting the required details, click on the LOGOUT button to be directed back to the sign-up page of the website.
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- [Avi Gupta](https://github.com/IVAVI17)
+- [Kartikey Bhatnagar](https://github.com/kartikey-codes)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 Special thanks to [Epizy](http://epizy.com) for hosting our website.
 
-## Feedback
-We welcome your feedback! Feel free to [contact us](mailto:your-email@example.com) with any suggestions or issues.
-
----
-
-Feel free to customize this README according to your project's specific needs and add any additional sections or details you think would be helpful!
