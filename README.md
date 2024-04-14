@@ -9,7 +9,7 @@ Are you tired of the hassle and uncertainty that comes with shifting to a new ho
 ## How it Works
 
 ### Step 1: Sign Up
-![Sign Up](images/signup.png)
+![Sign Up](img/R1.png)
 Click on the "Sign Up" button to register.
 
 ### Step 2: Login
